@@ -35,16 +35,10 @@ content: '';
     min-height: 100px;
     padding: 5px 10px;
     box-sizing: border-box;
-    display: inline-block;
-
 }
 
 .description{
     margin-bottom: 10px;
-}
-
-.price {
-    font-weight: bold;
 }
 
 .product-item button{
@@ -57,3 +51,6 @@ content: '';
     border-radius: 20px;
     width: 150px;}
 
+.price{
+    font-weight: bold;
+}
